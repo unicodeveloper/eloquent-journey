@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">You are welcome to Eloquent Journey</div>
             </div>
         </div>
     </body>
